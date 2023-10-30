@@ -1,6 +1,6 @@
 c = 0
-while c < 100:
-    c=c+5
+while c < 10:
+    c=c+1
     print( c )
-print("Os numeros pares são: ",)
+print(c, end="")
 
